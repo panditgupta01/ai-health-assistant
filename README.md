@@ -1,5 +1,8 @@
-Here’s your **final, polished, submission-ready README.md** — clean, professional, and clearly presenting the idea 👇
+---
+# 🏥 AI Health Assistant (HostelMed)
 
+---
+Here’s your **final, polished, submission-ready README.md** — clean, professional, and clearly presenting the idea 👇
 ---
 
 # 🚀 HostelMed — AI Health Assistant for Students
@@ -7,6 +10,12 @@ Here’s your **final, polished, submission-ready README.md** — clean, profess
 > 🧠 *Your hostel’s personal AI doctor — anytime, anywhere.*
 
 HostelMed is an AI-powered health assistant designed to help hostel students quickly understand their symptoms, assess urgency, and take the right action — without needing immediate access to a doctor.
+
+---
+
+## 🚀 Live Demo
+
+👉 https://ai-health-assistant-two.vercel.app/
 
 ---
 
