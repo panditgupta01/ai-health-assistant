@@ -33,7 +33,7 @@ export function useChat() {
     setIsLoading(true);
 
     try {
-      const res = await axios.post("/api/symptom", {
+      const res = await axios.post("https://ai-health-assistant-bd6g.onrender.com/api/symptom", {
         message: trimmed,
         chatHistory: historyRef.current,
       });
