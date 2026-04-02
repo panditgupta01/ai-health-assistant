@@ -4,6 +4,7 @@
 A hackathon-ready AI health chatbot for hostel students. Built with React + Vite, Node.js + Express, and OpenAI.
 
 ---
+<img width="817" height="896" alt="image" src="https://github.com/user-attachments/assets/a9ed4ee0-1c50-49ca-a2e8-fdd35261628c" />
 
 ## Folder Structure
 
