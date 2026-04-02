@@ -1,10 +1,3 @@
----
-# 🏥 AI Health Assistant (HostelMed)
-
----
-Here’s your **final, polished, submission-ready README.md** — clean, professional, and clearly presenting the idea 👇
----
-
 # 🚀 HostelMed — AI Health Assistant for Students
 
 > 🧠 *Your hostel’s personal AI doctor — anytime, anywhere.*
@@ -93,7 +86,7 @@ HostelMed provides a **smart AI-based health guidance system** that:
 
 ### AI Integration
 
-* OpenAI API
+* groq API
 
 ---
 
@@ -147,7 +140,7 @@ cp .env.example .env
 Edit `.env` file:
 
 ```
-OPENAI_API_KEY=your-api-key
+GROQ_API_KEY=your-api-key
 PORT=5000
 ```
 
@@ -236,3 +229,18 @@ Use these to showcase your project:
 > “From symptoms to solutions — instantly.”
 
 ---
+
+## 👨‍💻 Built by
+
+Amarnath (panditgupta01)
+
+GitHub: https://github.com/panditgupta01
+LinkedIn: https://linkedin.com/in/panditgupta01
+Twitter/X: https://twitter.com/panditgupta01
+Instagram: https://www.instagram.com/panditgupta01
+
+...
+
+##⭐ Support
+
+If you like this project, give it a ⭐ on GitHub — it helps a lot!
