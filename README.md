@@ -11,6 +11,9 @@ HostelMed is an AI-powered health assistant designed to help hostel students qui
 ---
 
 ## Screeenshot
+<img width="680" height="910" alt="image" src="https://github.com/user-attachments/assets/10173fec-4a55-4b0f-9929-04d25f307dbe" />
+<br>
+
 <img width="817" height="896" alt="image" src="https://github.com/user-attachments/assets/caafda8a-0f5c-4c05-80b1-2d8a126e8d6d" />
 
 
