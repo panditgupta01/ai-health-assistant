@@ -234,10 +234,10 @@ Use these to showcase your project:
 
 Amarnath (panditgupta01)
 
-GitHub: https://github.com/panditgupta01
-LinkedIn: https://linkedin.com/in/panditgupta01
-Twitter/X: https://twitter.com/panditgupta01
-Instagram: https://www.instagram.com/panditgupta01
+GitHub: https://github.com/panditgupta01 <br>
+LinkedIn: https://linkedin.com/in/panditgupta01 <br>
+Twitter/X: https://twitter.com/panditgupta01 <br>
+Instagram: https://www.instagram.com/panditgupta01 <br>
 
 ...
 
